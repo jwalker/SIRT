@@ -12,7 +12,7 @@ environment. The script comes in handy to just identify servers that open to rel
 or for social engineering.
 
 ## Usage:
-#### ./sirt.py <smtp_servers.txt> <client/hostname> <target@hostname.com> <spoofed@hostname.com> <Subject> <data to send>
+./sirt.py <smtp_servers.txt> <client/hostname> <target@hostname.com> <spoofed@hostname.com> <Subject> <data to send>
 ```
 ./sirt.py targets.txt gmail.com sirttest@mailismagic.com support@helpdesk.me "Testing your SE training" "Click All The Links"
 Got all arguments
