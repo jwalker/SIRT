@@ -2,7 +2,7 @@ SMTP Internal Relay Tool aka (SIRT.py)
 
 Can be use to check for SMTP relay servers and send (spoofed) emails of chosen target.
 
-I wrote this tool on during an assessment, where vulnerability scanner had identified
+I wrote this tool during an assessment, where a vulnerability scanner identified
 a few mail servers. Instead of trying to check each system for internal relays, it was
 much easier to have the script do it for me. 
 
